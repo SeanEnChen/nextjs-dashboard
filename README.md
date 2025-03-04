@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+# Next.js Starter Project
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+這是我完成 [Next.js Starter Course](https://nextjs.org/learn) 後的練習專案，包含基本的頁面路由、元件、API 路由和動態靜態生成的練習內容。
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## 部署網址
+
+🔗 [專案已部署到 Vercel](https://nextjs-dashboard-seans-projects-277d2743.vercel.app/)
